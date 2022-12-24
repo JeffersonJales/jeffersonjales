@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm [Jefferson](https://github.com/JeffersonJales), glad to see you here!
 
-<!--
-**JeffersonJales/jeffersonjales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate game developer from Brazil.
 
-Here are some ideas to get you started:
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50">](https://www.linkedin.com/in/jefferson-jales)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Talking about Personal Stuffs:
+
+- 👩🏻‍💻 I’m currently working as Game Development at [Rastrolabs Game Studio](https://www.linkedin.com/company/rastrolabs/) 
+- 💬 Ask me about anything, I am happy to help!
+- 😄 Pronouns: He / Him
+- 📫 How to reach me jalesjefferson@gmail.com.
+
