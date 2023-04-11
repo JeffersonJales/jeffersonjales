@@ -8,7 +8,6 @@ Talking about Personal Stuffs:
 
 - 👩🏻‍💻 I’m currently working as Game Development at [Rastrolabs Game Studio](https://www.linkedin.com/company/rastrolabs/) 
 - 💬 Ask me about anything, I am happy to help!
-- 😄 Pronouns: He / Him
 - 📫 How to reach me jalesjefferson@gmail.com.
 
 ## Works
