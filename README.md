@@ -13,12 +13,12 @@ Talking about Personal Stuffs:
 
 ## Works
 
-### Roadout - Pragramming & Tool Development
+### Roadout - Programming & Tool Development
 #### Check the demo [here](https://store.steampowered.com/app/1829270/RoadOut/).
 [<img src="https://cdn.akamai.steamstatic.com/steam/apps/1829270/capsule_616x353.jpg?t=1666872415">](https://store.steampowered.com/app/1829270/RoadOut/)
 
 
-### Capybara Hotel - Pragramming
+### Capybara Hotel - Programming
 
 [<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2308260/ss_77064c574c7fcccfb160fa8f0e878b51fd75336f.600x338.jpg?t=1677670992">](https://store.steampowered.com/app/2308260/Capybara_Hotel/)
 
