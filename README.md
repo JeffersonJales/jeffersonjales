@@ -10,15 +10,6 @@ Talking about Personal Stuffs:
 - 💬 Ask me about anything, I am happy to help!
 - 📫 How to reach me jalesjefferson@gmail.com.
 
-## Portfolio
-
-### [Roadout](https://store.steampowered.com/app/1829270/RoadOut/) - Programming & Tool Development
-[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1829270/capsule_616x353.jpg?t=1666872415">](https://store.steampowered.com/app/1829270/RoadOut/)
-
-
-### [Capybara Hotel](https://store.steampowered.com/app/2308260/Capybara_Hotel/) - Programming
-
-[<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2308260/ss_77064c574c7fcccfb160fa8f0e878b51fd75336f.600x338.jpg?t=1677670992">](https://store.steampowered.com/app/2308260/Capybara_Hotel/)
 
 ## Maintained Libs
 <table>
@@ -72,4 +63,15 @@ Talking about Personal Stuffs:
   </tr>
       
 </table>
+
+## Portfolio
+
+### [Roadout](https://store.steampowered.com/app/1829270/RoadOut/) - Programming & Tool Development
+[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1829270/capsule_616x353.jpg?t=1666872415">](https://store.steampowered.com/app/1829270/RoadOut/)
+
+
+### [Capybara Hotel](https://store.steampowered.com/app/2308260/Capybara_Hotel/) - Programming
+
+[<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2308260/ss_77064c574c7fcccfb160fa8f0e878b51fd75336f.600x338.jpg?t=1677670992">](https://store.steampowered.com/app/2308260/Capybara_Hotel/)
+
       
