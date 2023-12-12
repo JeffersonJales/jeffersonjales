@@ -1,7 +1,5 @@
 ### Hi there, I'm [Jefferson](https://github.com/JeffersonJales), glad to see you here!
 
-I'm a passionate game developer from Brazil.
-
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50">](https://www.linkedin.com/in/jefferson-jales)
 
 Talking about Personal Stuffs:
