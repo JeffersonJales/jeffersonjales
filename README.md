@@ -64,7 +64,7 @@ Talking about Personal Stuffs:
 
 ## Portfolio
 
-### [Roadout](https://store.steampowered.com/app/1829270/RoadOut/) - Programming & Tool Development
+### [Roadout](https://store.steampowered.com/app/1829270/RoadOut/) - Programming & Tool Development & QA Engineer
 [<img src="https://cdn.akamai.steamstatic.com/steam/apps/1829270/capsule_616x353.jpg?t=1666872415">](https://store.steampowered.com/app/1829270/RoadOut/)
 
 
